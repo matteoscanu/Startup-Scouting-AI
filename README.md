@@ -31,14 +31,9 @@ Link al Google Sheet generato: https://docs.google.com/spreadsheets/d/1spD0c5def
 3. Copiare il file main.gs (caricato nella cartella GitHub) e salvare
 4. Necessario dare le autorizzazioni: Esegui → Concedi autorizzazioni Google
 5. Tornare al foglio Google e aggiornarlo
+6. Accedere all'account Perplexity
 
-## Seconda parte: setup chiave API
-
-1. Creare account Perplexity
-2. Accedere all'account
-3. 
-
-## Terza parte: esecuzione comandi
+## Seconda parte: esecuzione comandi
 
 1. Creazione delle schede nel foglio Google. Dalla barra degli strumenti in alto: Startup Scouting AI → Creazione schede
 2. Ricerca acceleratori: Startup Scouting AI → Ricerca Acceleratori
